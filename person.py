@@ -1,3 +1,6 @@
 #Create a "Person" class
 class Person:
-    pass
+    name1='Anvar'
+    name2='Shavkat'
+    
+
