@@ -1,4 +1,4 @@
 from create_one_attribute import Person
-
-print(Person)
+Ali=Person()
+print(Ali)
 #create an object named "person" whose name is "Ali"
